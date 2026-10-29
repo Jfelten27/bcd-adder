@@ -1,0 +1,3 @@
+[submodule "bcd-counter"]
+	path = bcd-counter
+	url = https://github.com/Jfelten27/bcd-counter
