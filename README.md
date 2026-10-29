@@ -14,5 +14,6 @@
 | 1 | 0 | 1 | 0 | 1 | 
 | 1 | 1 | 0 | 0 | 1 |
 | 1 | 1 | 1 | 1 | 1 |
+
 S = A'B'Cin + A'BCin' + AB'Cin' + ABCin
 Cout = A'BCin + AB'Cin + ABCin' + ABCin
